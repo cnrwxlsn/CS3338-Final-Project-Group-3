@@ -1,1 +1,3 @@
-*.txt
+*.log
+User_Manual/
+.DS_Store
