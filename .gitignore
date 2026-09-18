@@ -1,6 +1,6 @@
 *.log
 User_Manual/
 .DS_Store
-config/SDD_v[12].docx
+*SDD_v[12].docx
 *-*.txt
 *styles.css
