@@ -3,5 +3,6 @@ User_Manual/
 .DS_Store
 *-*.txt
 *styles.css
-*SRS_v*.docx *SDD_v*.docx
+*SRS_v*.docx
+*SDD_v*.docx
 **/*/README*
