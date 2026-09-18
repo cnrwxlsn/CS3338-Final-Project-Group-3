@@ -1,7 +1,7 @@
 *.log
 User_Manual/
 .DS_Store
-*SDD_v1.docx
 *-*.txt
-/*/**/README.md
 *styles.css
+*SRS_v*.docx *SDD_v*.docx
+**/*/README*
