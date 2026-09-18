@@ -1,7 +1,9 @@
 *.log
 User_Manual/
 .DS_Store
+*SDD_v.docx
 *-*.txt
+/*/**/README.md
 *styles.css
 *SRS*
 !/Software_Requirements_Specification/SRS_Final.docx
