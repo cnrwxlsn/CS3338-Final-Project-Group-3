@@ -2,6 +2,8 @@
 User_Manual/
 .DS_Store
 *-*.txt
-
-
+<<<<<<< HEAD
 /*/**/README.md
+=======
+*styles.css
+>>>>>>> 91727162734cb0ab3bc029b01d4bfd24ad0c3c65
